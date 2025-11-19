@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Output files
+*.pkl
+*.h5
+*.joblib
+*.sqlite3
+
+# OS files
+.DS_Store
+# PYTHON (for earthquake-ml-api)
+earthquake-ml-api/__pycache__/
+earthquake-ml-api/*.pyc
+earthquake-ml-api/venv/
+earthquake-ml-api/env/
+earthquake-ml-api/.env
+earthquake-ml-api/*.pkl
+earthquake-ml-api/*.h5
+earthquake-ml-api/*.joblib
+
